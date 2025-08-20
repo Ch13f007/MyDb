@@ -4,7 +4,7 @@
 
 <img width="876" height="499" alt="first" src="https://github.com/user-attachments/assets/adc158cb-9964-4dd1-9395-2cf7933a331b" />
 
-### First run the command above within the repo MyDb, you to have python installed on your machine, if you are using linux run "python3 pip install requirements.txt
+### First run the command above within the repo MyDb, you need to have python installed on your machine, if you are using linux run "python3 pip install requirements.txt
 
 <img width="413" height="61" alt="sec" src="https://github.com/user-attachments/assets/e31e070f-77be-491c-b2a1-4b9c88464248" />
 
@@ -12,4 +12,6 @@
 
 <img width="844" height="233" alt="cool" src="https://github.com/user-attachments/assets/73650263-00ef-44fb-9cdf-da31cb1d0900" />
 
-### This part is import coz your online database credantials will be used here to connect and query
+### This part is import coz your online database credantials will be used here to connect and query.
+
+## Note that the database being used is "sqlite", the best part about SqlAlchemy is that you write code once and use the same code on all databases without sql language. Please go through the code on all 3 files carefully its important that you understand whats happening before going to security and pydantic.
