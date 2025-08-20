@@ -15,3 +15,5 @@
 ### This part is import coz your online database credantials will be used here to connect and query.
 
 ## Note that the database being used is "sqlite", the best part about SqlAlchemy is that you write code once and use the same code on all databases without sql language. Please go through the code on all 3 files carefully its important that you understand whats happening before going to security and pydantic.
+
+Shandisa brain dzako usati watanga kufona 😐
